@@ -1,0 +1,171 @@
+img {
+    width: 200px;
+    border: 5px solid lightslategray;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 50%;
+    border-style: inset;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 150px;
+    box-shadow: 10px 10px 10px -1px rgba(112, 112, 112, 0.425),
+                -10px -10px 10px -1px rgb(255, 255, 255);
+}
+#s1{
+    border-width: 15px;
+    border-style: solid;
+    background-color: lightslategray;
+    border-bottom: none;
+    border-top: none;
+    border-image: url('https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-42312.jpg?w=900&t=st=1676006198~exp=1676006798~hmac=88ddc03d44e4e422635f60f224908860f2a320e65de04648825158bc563f8eba') 50 round;
+}
+#s2
+{
+    background-color: rgb(132, 151, 170);
+    border-style: solid;
+    border-width: 15px;
+    padding: 50px;
+    border-image: url('https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-42312.jpg?w=900&t=st=1676006198~exp=1676006798~hmac=88ddc03d44e4e422635f60f224908860f2a320e65de04648825158bc563f8eba') 50 round;
+    border-top: none;
+    border-bottom: none;
+}
+#s3 {
+    border-width: 15px;
+    border-style: solid;
+    padding: 10px;
+    border-top: none;
+    border-bottom: none;
+    background-color: lightslategray;
+    border-image: url('https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-42312.jpg?w=900&t=st=1676006198~exp=1676006798~hmac=88ddc03d44e4e422635f60f224908860f2a320e65de04648825158bc563f8eba') 50 round;
+}
+#s4 {
+    background-color: rgb(132, 151, 170);
+    border-style: solid;
+    border-width: 15px;
+    padding: 10px;
+    border-image: url('https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-42312.jpg?w=900&t=st=1676006198~exp=1676006798~hmac=88ddc03d44e4e422635f60f224908860f2a320e65de04648825158bc563f8eba') 50 round;
+    border-top: none;
+    border-bottom: none;
+}
+#s5 {
+    border-width: 15px;
+    border-style: solid;
+    padding: 10px;
+    border-top: none;
+    border-bottom: none;
+    background-color: lightslategray;
+    border-image: url('https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-42312.jpg?w=900&t=st=1676006198~exp=1676006798~hmac=88ddc03d44e4e422635f60f224908860f2a320e65de04648825158bc563f8eba') 50 round;
+}
+#s6 {
+    background-color: rgb(132, 151, 170);
+    border-style: solid;
+    border-width: 15px;
+    padding: 10px;
+    border-image: url('https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-42312.jpg?w=900&t=st=1676006198~exp=1676006798~hmac=88ddc03d44e4e422635f60f224908860f2a320e65de04648825158bc563f8eba') 50 round;
+    border-top: none;
+    border-bottom: 40px solid;
+}
+table {
+    max-width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+
+}
+p {
+    font-family: Courier;
+    text-shadow: 3px 3px #707070;
+}
+#p1 {
+    text-align: right;
+}
+#p2 {
+    text-align: center;
+}
+body {
+    background-color: rgb(66, 66, 66);
+    color: white;
+    margin: 100px;
+}
+hr {
+    border: 1px solid white;
+}
+#cm {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px;
+    width: 200px;
+    background-color: rgb(66, 66, 66);
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px -1px rgba(0, 0, 0, 0.425),
+                -10px -10px 10px -1px rgb(87, 86, 86);
+}
+h3 {
+    text-align: center;
+    font-family: consolas;
+    text-shadow: 3px 3px #707070;
+}
+h4 {
+    font-family: consolas;
+    text-shadow: 3px 3px #707070;
+}
+#userpic {
+    background-color: ghostwhite;
+    background-image: url('https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-42312.jpg?w=900&t=st=1676006198~exp=1676006798~hmac=88ddc03d44e4e422635f60f224908860f2a320e65de04648825158bc563f8eba');
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+#l1 {
+    list-style-type: none;
+    text-align: center;
+    font-family: courier;
+    text-shadow: 3px 3px #707070;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-family: Tahoma;
+}
+#hr1 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px;
+    width: 200px;
+    background-color: rgb(66, 66, 66);
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px -1px rgba(0, 0, 0, 0.425),
+                -10px -10px 10px -1px rgb(87, 86, 86);
+}
+#dm {
+    text-align: center;
+    font-family: consolas;
+    text-shadow: 3px 3px #707070;
+    font-size: 30px;
+}
+form {
+    text-align: center;
+}
+#box {
+    background-color: lightslategray;
+    padding: 50px;
+    text-align: center;
+}
+#prof {
+    display: inline;
+    padding: 5px;
+    text-align: center;
+}
+input {
+    width: 235px;
+    padding: 3px;
+
+}
+#line {
+    border-style: dotted;
+}
